@@ -6,3 +6,5 @@ Run the system in different frequencies by switching accordingly.
 
 
 ![Circuit_setup](https://github.com/Sanjidrifat/Cycloconverter/assets/56880721/fe1545c8-d5bb-4288-87ec-47cbea791605)
+
+<img width="528" alt="cyclo" src="https://github.com/Sanjidrifat/Cycloconverter/assets/56880721/367e3bdb-230b-41f3-9902-edc9154d6d8d">
